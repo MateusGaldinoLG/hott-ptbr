@@ -1,3 +1,5 @@
+Versão em Português do livro Homotopy Type THeory
+
 This is a textbook on informal homotopy type theory.
 It is part of the [Univalent foundations of mathematics](http://www.math.ias.edu/sp/univalent)
 project that took place at the Institute for Advanced Study in 2012/13.
